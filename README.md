@@ -38,14 +38,14 @@ If you are working in Google Colab:
 
 ### Team Members
 
-| Role | Name | Enrollment No. |
+| Role | Name | Github |
 |---|---|---|
-| Project Lead | Praneeth Nakkina Lakshmi | 2401010288 |
-| Data Lead | Himank Kaushik | 2401010187 |
-| Analysis Lead (EDA) | Priyal Sarda | 2401010354 |
-| ETL Lead / PPT Lead | Gokul VKS | 2401020094 |
-| Visualization Lead | Atharva Sharma | 2401010112 |
-| Report Lead | Abhijeet Sinha | 2401010013 |
+| Project Lead | Praneeth Nakkina Lakshmi | https://github.com/iampraneeth1116 |
+| Data Lead | Himank Kaushik | https://github.com/Nobody-KnowsBetter |
+| Analysis Lead (EDA) | Priyal Sarda | https://github.com/Priyal-2005 |
+| ETL Lead / PPT Lead | Gokul VKS | https://github.com/vks-g |
+| Visualization Lead | Atharva Sharma | https://github.com/alpha-sml |
+| Report Lead | Abhijeet Sinha | https://github.com/abhijeetnst |
 
 ---
 
